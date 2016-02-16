@@ -1,0 +1,14 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: teal;
+}
+
+.container_12{
+	background-color: rgba(0,0,0,0.9);
+	padding: 2em;
+	margin-top: 5em;
+	border-radius: 8px;
+}
+
+.grid_6, .grid_4{
+}
