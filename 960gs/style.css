@@ -5,10 +5,19 @@ body{
 
 .container_12{
 	background-color: rgba(0,0,0,0.9);
-	padding: 2em;
-	margin-top: 5em;
+	padding: ;
+	margin-top: 2em;
 	border-radius: 8px;
 }
 
 .grid_6, .grid_4{
+}
+
+footer{
+	background-color: teal;
+	color: black;
+	padding: 1em 2em;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	text-align: center;
 }
